@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Rails Defaults
+# Rails Default Gems
 
 ruby '2.3.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -25,9 +25,8 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-# learn-rails
+# learn-rails Gems
 
-# learn-rails
 gem 'foundation-rails', '~> 5.5'
 gem 'gibbon'
 gem 'high_voltage'
